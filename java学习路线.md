@@ -1,9 +1,0 @@
-- [x] javase
-- [x] 数据库：mysql，jdbc
-- [x] web前端：html，css，js
-- [x] javaweb：servlet，jsp
-- [ ] web进阶
-- [x] javaweb实战
-- [x] SSM
-- [ ] 互联网分布式：Dubbo，redis
-- [ ] 分布式项目实践
